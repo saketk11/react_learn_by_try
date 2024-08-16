@@ -7,8 +7,6 @@ import InputEl from './InputEl';
 // import ButtonWithLogging from './components/hoc/ButtonWithLogging';
 // import TypeBasedInput from './components/hoc/TypeBasedInput';
 
-//added comment
-
 const EnhancedInput = InputWrapper(InputEl);
 
 function App() {
